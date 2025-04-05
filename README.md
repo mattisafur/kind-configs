@@ -1,6 +1,6 @@
 # YAML cluster files for Kind
 
-YAML files of Kind cluster designed to quickly deploy common node confguration for testing.
+Kind cluster configuration files designed to quickly deploy common node confgurations for testing.
 
 ## Usage
 
